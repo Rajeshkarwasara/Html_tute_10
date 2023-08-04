@@ -1,0 +1,74 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn1 button {
+    border: none;
+    padding: 11px 12px;
+    border-radius: 17px;
+    font-weight: 800;
+}
+
+.header h1 {
+    padding-top: 25px;
+}
+
+.header p {
+    padding-top: 24px;
+    line-height: 26px;
+}
+
+.header input {
+    width: 28%;
+    padding: 10px 9px 10px 24px;
+    margin-top: 32px;
+    border-radius: 21px;
+    border: none;
+}
+
+body {
+    background: rgba(0, 0, 0, 0.1)url("tut5img.jpg");
+    color: white;
+    background-blend-mode: darken;
+    height: 100vh;
+    background-size: cover;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fa-solid.fa-magnifying-glass {
+    color: gray;
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 44px;
+}
+.btn2 p {
+    display: inline;
+  } 
+  .btn2 {
+    margin-top: 36px;
+    font-size: 21px;
+  }
+  .btn2 button {
+    padding: 9px 24px 9px 19px;
+    border: 2px solid white;
+    border-radius: 18px;
+    color: white;
+    background: none;
+  }
+  .btn1 a {
+    text-decoration: none;
+    color: black;
+  }
+  .btn1 button:hover {
+    background: black;
+  }
+  .btn1 a:hover {
+    color: white;
+  }
